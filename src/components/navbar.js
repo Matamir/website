@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="container p-2">
 
         <div className="col-6 text-white" style={{fontSize:"30px"}}>
-          Mathew Hirsch Portfolio Website
+          Marnie Hirsch Portfolio Website
         </div>
 
         <div className="col-1">

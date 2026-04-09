@@ -24,7 +24,7 @@ const About = () => {
                         type();
                     }
 
-                    }, 25)
+                    }, 10)
 
                 }
                 type();
@@ -36,7 +36,7 @@ const About = () => {
             <div className="container" style={{paddingTop:"150px"}}>
             
                 <h1 className="font-weight-bold" style={{fontFamily: 'Copperplate Gothic Light'}}>
-                Hi, my name is Mathew Hirsch.
+                Hi, my name is Marnie Hirsch.
                 </h1>
 
                 <p id="aboutText" style={{fontFamily: 'Courier New, monospace', fontSize: 'large'}}>
