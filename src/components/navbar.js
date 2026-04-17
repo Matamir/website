@@ -36,7 +36,7 @@ const Navbar = () => {
           <a href="https://www.linkedin.com/in/mathew-hirsch/" className="text-white" target="_blank">
           <i className="fab"> linked </i> <i className="fab fa-linkedin"></i>
           </a>
-          <a href="https://github.com/Matamir" className="text-white" target="_blank">
+          <a href="https://github.com/marnsie" className="text-white" target="_blank">
             <i className="fab fa-github"> github</i>
           </a>
         </div>
